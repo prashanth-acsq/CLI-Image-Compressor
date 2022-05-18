@@ -1,5 +1,6 @@
 ## **Command Line App for Image Compression**
 
+- Run `make-env.bat`
 - Place files to be compressed in the `Files` folder
 - Processed files are saved in the `Processed` folder with the name `filename - Compressed.jpg`
 
